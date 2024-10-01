@@ -1,4 +1,4 @@
-# Project Name: CNN Selenium NewsScraper
+# CNN Selenium NewsScraper
 
 ## Project Overview
 This is a Selenium-based web scraping project used to scrape news from the CNN website, save it as a CSV file, and generate a detailed report. The project includes the following three files:
